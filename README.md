@@ -1,1 +1,6 @@
-# response_time
+# 応答時間を計測する処理
+処理の応答時間を調べる際に使用。
+
+## 使用方法
+ResponseTimeクラスのmeasureメソッドの引数に処理を渡して実行する。
+(index.phpに使用例あり)
